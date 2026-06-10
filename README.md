@@ -1,19 +1,198 @@
-# 💫 About Me:
-🔭 I'm currently working on<br>⦿ Mastering advanced Data Structures and Algorithms in C++ and Python<br>⦿ Next big idea in full-stack development<br>⦿ Something that'll change how I think about problem-solving<br>⦿ Projects that push my boundaries<br><br>🤝 I'm looking to collaborate on<br>⦿ Google Summer of Code (GSOC) projects<br>⦿ Competitive programming challenges and coding contests<br>⦿ Challenging technical projects with visionary teams<br>⦿ Ideas that matter and make impact<br><br>💛 I'm looking for help with<br>⦿ Advanced concepts that challenge my current understanding<br>⦿ Scaling solutions from prototype to production<br>⦿ Mentorship from experienced developers in my field<br><br>🌱 I'm currently learning<br>⦿ The next evolution of my technical skills<br>⦿ How to build systems that are elegant and efficient<br>⦿ What it takes to contribute to groundbreaking projects <br><br>💬 Ask me about<br>⦿ Competitive programming strategies <br>⦿ Linux system administration and command-line workflows<br>⦿ Building APIs with Flask and integrating third-party services<br>⦿ Building robust and scalable solutions<br>⦿ Problem-solving philosophy and approach<br>⦿ The journey of continuous learning in tech<br><br>⚡ Fun fact<br>⦿ Former Pradhan Mantri (student council head) who leads by example <br>⦿ Late-night debugging sessions are my superpower "Night owl with a cup of coffee and code"<br>⦿ Forever a learner <br>⦿ Passionate about trekking , nature 🏔️  and Chess 
+<div align="center">
 
+<!-- Typing SVG Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Hello%2C+Universe+%F0%9F%8C%8C;I'm+Parth+Ajmera;Student+%E2%80%A2+Co-Founder+%E2%80%A2+Researcher;Building+at+the+edge+of+code+%26+cosmos)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/1454420544270241895/1454420545314492501) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@parth_ajmera.official) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ajmeraparthofficial/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Gyanalaya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajmeraparth.official@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" width="100%"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=flat-square&logo=openapiinitiative&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-# 📊 GitHub Stats:
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-ajmera)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vortex-ParthAjmera)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-24243e?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://vortex-parthajmera.github.io/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthajmera.inquiries@gmail.com)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=Vortex-ParthAjmera&label=profile+views&color=A78BFA&style=for-the-badge)
+
+</div>
+
+---
+
+## `> whoami`
+
+```python
+parth_ajmera = {
+    "name"          : "Parth Ajmera",
+    "location"      : "Dehradun, Uttarakhand, India 🇮🇳",
+    "university"    : "Doon University — B.Tech CSE",
+    "roles"         : ["Student", "Co-Founder @ Shastra", "Astrophysics Researcher"],
+    "building"      : "Shastra — a next-gen tech venture",
+    "researching"   : "Dark Matter · Quantum Computing · AI × Science",
+    "competing"     : ["GSoC", "The Big Code 2026", "Competitive Programming"],
+    "leading"       : "Cell of Technical Outreach (CTO) @ Doon University",
+    "languages"     : ["English", "Hindi", "日本語 (learning)"],
+    "currently"     : "Bridging the gap between code and cosmos",
+    "fun_fact"      : "I wrote a research paper on Dark Matter before my 2nd semester."
+}
+```
+
+---
+
+## 🌌 About Me
+
+> *"The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself."*
+
+I operate at the intersection of **systems thinking**, **applied AI**, and **fundamental science**. As a first-year CS student, I've co-founded a startup, authored astrophysics research, founded a technical outreach cell at my university, and competed at national-level coding events — because I believe the best builders are also the most curious explorers.
+
+- 🚀 **Co-Founder** of **Shastra** — building at the frontier of technology
+- 🔭 **Astrophysics Researcher** — exploring Dark Matter and cosmological enigmas  
+- 🧠 **Technical Leader** — founded the *Cell of Technical Outreach (CTO)* at Doon University to grow the tech community around me
+- ⚡ **Competitive Programmer** — preparing for GSoC and national-level coding competitions
+- 🌐 **Community Builder** — participated in high-level summits including Impact AI Summit
+
+---
+
+## 🛠️ Tech Stack & Interests
+
+**Core Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Systems & Tools**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+**Exploring**
+
+![Quantum](https://img.shields.io/badge/Quantum%20Computing-A78BFA?style=flat-square&logo=ibm&logoColor=white)
+![Computer Architecture](https://img.shields.io/badge/Computer%20Architecture-302b63?style=flat-square&logo=intel&logoColor=white)
+![OS](https://img.shields.io/badge/Operating%20Systems-24243e?style=flat-square&logo=linux&logoColor=white)
+
+---
+
+## 🚀 What I'm Building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Shastra
+> *Co-Founded startup*
+
+A technology venture being built from the ground up. Shastra is focused on creating real-world impact through innovative solutions — more details dropping soon.
+
+`Startup` `Co-Founder` `Building`
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 Cell of Technical Outreach
+> *Founded @ Doon University*
+
+An initiative I founded to drive technical literacy and create a thriving builder community on campus — running workshops, events, and connecting students to the broader tech ecosystem.
+
+`Leadership` `Community` `Outreach`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔭 Astrophysics Research
+> *Independent Research*
+
+Authored research exploring the fundamental mysteries of our cosmos. Currently working on the intersection of AI/ML and astrophysical modelling.
+
+`Dark Matter` `Cosmology` `AI × Science`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 Competitive Programming
+> *GSoC · The Big Code 2026*
+
+Preparing for Google Summer of Code and actively competing in national-level coding contests. Low-level systems (C, OS, Architecture) are my arena.
+
+`GSoC` `Algorithms` `Systems`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=Vortex-ParthAjmera&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Vortex-ParthAjmera&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex-ParthAjmera&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Vortex-ParthAjmera&limit=5&theme=aura&combine_all_yearly_contributions=true)
+
+---
+
+## 🌠 Research & Writing
+
+| Type | Title | Status |
+|------|-------|--------|
+| 📄 Research Paper | Shadows of the Cosmos: The Dark Matter Enigma | `Published` |
+| ✍️ Writing | Sanatan Yatra — Cultural & Spiritual E-Magazine | `Ongoing` |
+| 🔬 Research Interest | AI × Astrophysics · Quantum Computing | `Exploring` |
+
+---
+
+## 🎯 2026 Goals
+
+```
+[ ] Google Summer of Code (GSoC) ..................... 🔄 In Progress
+[ ] The Big Code 2026 ................................ 🔄 Competing  
+[ ] Scale Shastra — first major milestone ............ 🔄 Building
+[ ] Expand CTO cell across Doon University ........... 🔄 Growing
+[ ] Publish next research paper ...................... 🔄 Researching
+[ ] Advance Japanese proficiency ..................... 🔄 学習中
+```
+
+---
+
+## 🌍 Beyond the Terminal
+
+```
+🔭  Astrophysics & Dark Matter          🧮  Quantum Computing
+🤖  AI × Public Health                  📖  Sanatan Yatra (Writing)
+🎌  Japanese Language & Culture         🏔️  Dehradun, Uttarakhand
+⚡  Supercomputers & Low-level Systems  🌐  Impact AI Summit
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
+*"The universe is under no obligation to make sense to you — but you are under every obligation to make sense of it."*
+
+**— Parth Ajmera** · *Student · Co-Founder · Researcher*
+
+</div>
