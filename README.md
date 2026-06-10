@@ -141,14 +141,14 @@ Preparing for Google Summer of Code and actively competing in national-level cod
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vortex-ParthAjmera&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA&include_all_commits=true&count_private=true&bg_color=0f0c29"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vortex-ParthAjmera&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA&include_all_commits=false&count_private=false&bg_color=0f0c29"/>
 &nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex-ParthAjmera&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&title_color=A78BFA&bg_color=0f0c29"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex-ParthAjmera&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&title_color=A78BFA&bg_color=0f0c29&hide=jupyter%20notebook"/>
 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Vortex-ParthAjmera&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&background=0f0c29&dates=8892b0&sideLabels=c0caf5"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vortex-ParthAjmera&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&background=0f0c29&dates=8892b0&sideLabels=c0caf5"/>
 </div>
 
 ### ✍️ Random Dev Quote
@@ -169,10 +169,9 @@ Preparing for Google Summer of Code and actively competing in national-level cod
 
 ## 🏅 Certifications
 
-<!-- Add certifications.svg to your repo root for animated cert cards -->
-<!-- Until then, the table below serves as the live fallback -->
-
 <div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/View%20All%20Certifications-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajmeraparthofficial/details/certifications/)
 
 | Certification | Issuer | Date | Topics |
 |---|---|---|---|
@@ -184,8 +183,6 @@ Preparing for Google Summer of Code and actively competing in national-level cod
 | 🌟 Gemini for Developers | Google DeepMind | May 2026 | Gemini API · Multimodal AI · Dev Tooling · Function Calling |
 
 *+ Azure AI (NLP · Vision · Document Intelligence) · Google GenAI Leader · Duke Agile Specialization · Wharton Quantitative Modeling*
-
-> 🔗 **Share your LinkedIn URL** to auto-update this section with verified certifications
 
 </div>
 
@@ -215,15 +212,7 @@ Preparing for Google Summer of Code and actively competing in national-level cod
 
 ---
 
-## 🌠 Research & Writing
 
-| Type | Title | Status |
-|------|-------|--------|
-| 📄 Research Paper | Shadows of the Cosmos: The Dark Matter Enigma | `Published` |
-| ✍️ Writing | Sanatan Yatra — Cultural & Spiritual E-Magazine | `Ongoing` |
-| 🔬 Research Interest | AI × Astrophysics · Quantum Computing | `Exploring` |
-
----
 
 ## 🎯 2026 Goals
 
