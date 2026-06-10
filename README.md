@@ -63,8 +63,6 @@ I operate at the intersection of **systems thinking**, **applied AI**, and **fun
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **AI / ML**
 
@@ -141,15 +139,79 @@ Preparing for Google Summer of Code and actively competing in national-level cod
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Vortex-ParthAjmera&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vortex-ParthAjmera&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex-ParthAjmera&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vortex-ParthAjmera&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA&include_all_commits=true&count_private=true&bg_color=0f0c29"/>
+&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex-ParthAjmera&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&title_color=A78BFA&bg_color=0f0c29"/>
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Vortex-ParthAjmera&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&background=0f0c29&dates=8892b0&sideLabels=c0caf5"/>
+</div>
 
 ### ✍️ Random Dev Quote
+<div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko)
 
+</div>
+
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vortex-ParthAjmera&limit=5&theme=aura&combine_all_yearly_contributions=true)
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=Vortex-ParthAjmera&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+<!-- Add certifications.svg to your repo root for animated cert cards -->
+<!-- Until then, the table below serves as the live fallback -->
+
+<div align="center">
+
+| Certification | Issuer | Date | Topics |
+|---|---|---|---|
+| 🤖 Google AI Professional Cert | Google | Feb 2026 | Applied AI · GenAI · 150+ Employer Consortium |
+| 🔷 Applied Skills: Create an AI Agent | Microsoft | Feb 2026 | Azure AI Foundry · Agentic Workflows · RAG · Copilot Studio |
+| 🟠 Claude Code in Action | Anthropic | Mar 2026 | Claude Code · MCP · Tool Use · Hooks · GitHub Integration |
+| ☁️ AWS AI Practitioner Path | Amazon Web Services | Oct 2025 | Cloud AI · ML Foundations · SageMaker · Bedrock · PartyRock |
+| 📊 McKinsey Forward Program | McKinsey & Company | Oct 2025 | Structured Thinking · Strategy · Problem Solving · 500K+ Alumni |
+| 🌟 Gemini for Developers | Google DeepMind | May 2026 | Gemini API · Multimodal AI · Dev Tooling · Function Calling |
+
+*+ Azure AI (NLP · Vision · Document Intelligence) · Google GenAI Leader · Duke Agile Specialization · Wharton Quantitative Modeling*
+
+> 🔗 **Share your LinkedIn URL** to auto-update this section with verified certifications
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Vortex-ParthAjmera/AI-Driven-Public-Health-Whatsapp-and-SMS-Chatbot-for-Disease-Awareness">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vortex-ParthAjmera&repo=AI-Driven-Public-Health-Whatsapp-and-SMS-Chatbot-for-Disease-Awareness&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA&bg_color=0f0c29"/>
+</a>
+&nbsp;
+<a href="https://github.com/Vortex-ParthAjmera/Quiz-System-Interface-KBC-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vortex-ParthAjmera&repo=Quiz-System-Interface-KBC-&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA&bg_color=0f0c29"/>
+</a>
+
+</div>
+
+---
+
+## 📈 Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vortex-ParthAjmera&theme=tokyo-night&hide_border=true&color=A78BFA&line=A78BFA&point=ffffff&area=true&area_color=302b63&bg_color=0f0c29" width="100%"/>
+</div>
 
 ---
 
@@ -189,10 +251,10 @@ Preparing for Google Summer of Code and actively competing in national-level cod
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0f0c29,302b63,A78BFA&height=100&section=footer&fontColor=fff" width="100%"/>
 
-*"The universe is under no obligation to make sense to you — but you are under every obligation to make sense of it."*
+</div>
 
-**— Parth Ajmera** · *Student · Co-Founder · Researcher*
-
+<div align="center">
+  <sub><i>"The universe is under no obligation to make sense to you — but you are under every obligation to make sense of it."</i></sub>
 </div>
